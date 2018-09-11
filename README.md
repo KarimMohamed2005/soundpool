@@ -6,7 +6,7 @@ Inspired by [Android SoundPool API](https://developer.android.com/reference/andr
 
 Example:
 
-```dart
+``` dart
     import 'package:soundpool/soundpool.dart';
 
     Soundpool pool = Soundpool(streamType: StreamType.notification);
